@@ -1,7 +1,7 @@
 # JMBDD-TEST-TASK
 
 
-![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/initial.jpeg?raw=true)
+![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/intial.jpeg?raw=true)
 
 
 ![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/new%20appt.jpeg?raw=true)
