@@ -1,13 +1,13 @@
 # JMBDD-TEST-TASK
 
 
-![alt text](https://github.com/mahekn23/Job-Application-Review-System/blob/master/initial.jpeg?raw=true)
+![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/initial.jpeg?raw=true)
 
 
-![alt text](https://github.com/mahekn23/Job-Application-Review-System/blob/master/new appt.jpeg?raw=true)
+![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/new%20appt.jpeg?raw=true)
 
 
-![alt text](https://github.com/mahekn23/Job-Application-Review-System/blob/master/appt created.jpeg?raw=true)
+![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/appt%20created.jpeg?raw=true)
 
 
-![alt text](https://github.com/mahekn23/Job-Application-Review-System/blob/master/mongo final.jpeg?raw=true)
+![alt text](https://github.com/mahekn23/JMBDD-TEST-TASK/blob/master/mongo%20final.jpeg?raw=true)
